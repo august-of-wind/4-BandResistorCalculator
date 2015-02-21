@@ -3,4 +3,6 @@ This is a python program that calculates Ohm values for 4-band resistors. I have
 
 I wrote this program so I would not have to refer to Resistor Color Code charts any more, and thought others could find it useful as well.
 
+I have released this under the MIT license - so have at it and use this if you find it useful!
+
 Enjoy!
