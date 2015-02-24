@@ -4,7 +4,7 @@ def concInts(x, y):
 
 def ResistorCheck():
            userInput = raw_input("Option 1.) Print all potential resistor band colors.\n Option 2.) Proceed to ResitorCheck program.\n Type 1 or 2 to proceed: ")
-           if(userInput.lower() == "2"):
+           if(userInput.lower() == "1"):
                print("All potential colors for FIRST THREE BANDS are:\nBlack\nBrown\nRed\nOrange\nYellow\nGreen\nBlue\nViolet\nGrey\nWhite")
                print("All potential colors for FOURTH BAND are:\nBlack\nBrown\nRed\nOrange\nYellow\nGreen\nBlue\nViolet")
                ResistorCheck()
